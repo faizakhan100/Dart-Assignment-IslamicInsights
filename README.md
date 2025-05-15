@@ -17,7 +17,7 @@ The total number of performed prayers is displayed.
 
 
 ###  5. A display of the 99 Names of Allah (Asma'ul Husna) using (for) loop 
-    & Quranic verses counter
+###    & Quranic verses counter
 
  The names ALLAH (SWT) are stored in a list.
  A program through which user can count the number of verses that have memorized.
